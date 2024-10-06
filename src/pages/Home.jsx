@@ -1,7 +1,7 @@
 import  { useEffect } from 'react'
 import Navbar from '../components/Navbar';
 import Sidebar from '../components/Sidebar';
-import Card from '../Components/Card';
+import Card from '../components/Card';
 import Spinner from '../components/Spinner';
 
 import {useAppDispatch,useAppSelector} from "../hooks/useApp";
