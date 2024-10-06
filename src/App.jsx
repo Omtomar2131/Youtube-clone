@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes ,Route} from 'react-router-dom'
-import Home from './Pages/Home'
-import Watch from './Pages/Watch'
-import Search from './Pages/Search'
+import Home from './pages/Home'
+import Watch from './pages/Watch'
+import Search from './pages/Search'
 export default function App() {
   return (
     <BrowserRouter>
